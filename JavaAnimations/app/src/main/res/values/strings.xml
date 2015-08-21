@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JavaAnimations</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Info</string>
+    <string name="footbal_description">image to apply animations</string>
+    <string name="name_rotate">Rotate</string>
+    <string name="name_scale">Scale</string>
+    <string name="name_translate">Translate</string>
+    <string name="name_alpha">Alpha</string>
+</resources>
